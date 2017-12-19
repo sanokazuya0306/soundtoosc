@@ -14,8 +14,6 @@ This is super simple Max/MSP patch mainly for playing VJ.
 [Tap Tempo? - MaxMSP Forum | Cycling '74](https://cycling74.com/forums/tap-tempo-2)
 
 # Author
-Kazuya Sano
-
-Twitter: [@sanokazuya0306](https://twitter.com/sanokazuya0306)
-
+Kazuya Sano  
+Twitter: [@sanokazuya0306](https://twitter.com/sanokazuya0306)  
 Web: [http://sanokazuya0306.com/](http://sanokazuya0306.com/)
