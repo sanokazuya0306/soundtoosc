@@ -15,5 +15,7 @@ This is super simple Max/MSP patch mainly for playing VJ.
 
 # Author
 Kazuya Sano
+
 Twitter: [@sanokazuya0306](https://twitter.com/sanokazuya0306)
+
 Web: [http://sanokazuya0306.com/](http://sanokazuya0306.com/)
